@@ -1,0 +1,13 @@
+###IPythonNotebook###
+
+# Temporary data
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.local/
+.cache/
+.conda/
+.config/
+
+/log/
+/plot/
